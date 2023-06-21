@@ -215,16 +215,16 @@ Shows visualizations from Sales insights :
 
 | Key Insights |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0001](https://user-images.githubusercontent.com/118357991/234025264-f5f1d7af-2ead-4d9a-b8ae-7524d200b7dd.jpg)|
+|![Screenshot 2023-06-21 113350](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/cdc4ccf1-d933-4a0a-8d11-12cc9da390fb)|
 
 
 | Profit Analysis |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0002](https://user-images.githubusercontent.com/118357991/234025629-3c2e3dcf-77fb-4c20-acdb-3f92604d1292.jpg)|
+|![Screenshot 2023-06-21 113416](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/19b79f6a-7259-48db-9511-f9b455bd1277)|
 
 | Profit Analysis |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0003](https://user-images.githubusercontent.com/118357991/234025913-3a09f076-e1c7-40a1-9983-d2c8767f252c.jpg)|
+|![Screenshot 2023-06-21 113425](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/3544df7f-db39-467f-a154-f4db1e34ff5b)|
 
 ## Tools, Software and Libraries :
 
