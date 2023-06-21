@@ -1,4 +1,4 @@
-#  Project : Sales Insights of Data Analysis-AtliQ Hardware
+#  Project : Sales Insights of AtliQ Hardware
 
 ## Problem Statement :
 
