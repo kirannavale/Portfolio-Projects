@@ -1,18 +1,5 @@
 #  Project : Sales Insights of Data Analysis-AtliQ Hardware
 
-## Table of Contents:
-
-- [Problem Statement](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#problem-statement-)
-- [Data Discovery](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-discovery-)
-- [Data Analysis using MySQL ](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis-using-mysql-)
-- [Data Cleaning and ETL (Extract, Transform, Load)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-cleaning-and-etl-extract-transform-load)
-- [Data Modeling](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis--dax)
-- [Build Dashboard Or a Report](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#build-dashboard-or-a-report)
-- [Tools, Software and Libraries](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#tools-software-and-libraries-)
-- [References](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#references-)
-
-
 ## Problem Statement :
 
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project. 
