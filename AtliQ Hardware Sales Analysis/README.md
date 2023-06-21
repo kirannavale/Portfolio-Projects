@@ -48,9 +48,7 @@ SQL database dump is in db_dump.sql file above. Download db_dump.sql file to you
 
 - Importing Data to MySQL workbench
 
-![Screenshot (2)](https://user-images.githubusercontent.com/118357991/233262007-c36f58cd-df19-42b5-b9cb-4d72c0ef64a4.png)
-
-![Screenshot (3)](https://user-images.githubusercontent.com/118357991/233262064-b1fb8f0f-8c16-402d-adac-07784b81a2fe.png)
+![233262064-b1fb8f0f-8c16-402d-adac-07784b81a2fe](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/5397262b-3e29-4b48-a08b-bfb2b6e8a43b)
 
 
 The import of data is done from an already existing MySQL file. This file has to be loaded into MySQL workbench for further data analysis. 
@@ -61,7 +59,7 @@ The import of data is done from an already existing MySQL file. This file has to
    
      `SELECT * FROM sales.market;`
      
-   And then we can check that transacation table we can see that ceratin negative value in amount which is not possible. and we can see that certain transactions are      in USD. Hence, filtration of that is also needed by converting into INR.
+   And then we can check that transacation table we can see that ceratin negative value in amount which is not possible. and we can see that certain transactions are  in USD. Hence, filtration of that is also needed by converting into INR.
      
      `SELECT * FROM sales.transactions;`
      
@@ -147,7 +145,8 @@ In this process, we are work on data cleaning and ETL.
          
  In that model view looking up for model which form the star schema.
          
- ![Screenshot (4)](https://user-images.githubusercontent.com/118357991/233265427-94285bbf-79e6-446f-bd72-dc7c220e0680.png)
+![233265427-94285bbf-79e6-446f-bd72-dc7c220e0680](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/3b0e8b96-5236-45e6-8d32-e6837a221fa6)
+
 
  Setp 3: Transform data with the help of Power Query
  
@@ -185,7 +184,8 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 The sales insights data tables as show below:
 
-![Screenshot (14)](https://user-images.githubusercontent.com/118357991/234016242-369bd02e-1ddf-4047-9be4-324c83bd8761.png)
+![234016242-369bd02e-1ddf-4047-9be4-324c83bd8761](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/60b65c0c-8553-46ab-bde3-0361c790cd5c)
+
 
 ## Data Analysis  (DAX):
 
