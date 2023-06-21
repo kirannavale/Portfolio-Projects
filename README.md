@@ -253,11 +253,4 @@ Shows visualizations from Sales insights :
 
 3.DAX Language 
 
-## References :
-https://codebasics.io/panel/webinars/purchases
-
-https://www.sqlbi.com/learn/introducing-dax-video-course/0/
-
-https://dev.mysql.com/doc/
-
 ---
