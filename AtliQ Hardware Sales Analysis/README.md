@@ -40,7 +40,7 @@ All he wants is a simple data visualization tool which he can access on daily ba
    
 - #### Flowchart of project execution -
 
-  ![1_khhcniAryBdmmfJt0Zk0Lg](https://user-images.githubusercontent.com/118357991/231545034-7f6cc437-5683-44f1-92df-a671540ccae9.jpg)
+ ![231545034-7f6cc437-5683-44f1-92df-a671540ccae9](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/7d9a0eae-e0c6-4df9-8f38-bb08ea764614)
 
    
 
