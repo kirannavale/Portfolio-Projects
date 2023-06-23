@@ -1,5 +1,4 @@
 # PWC Power BI Virtual work experience- Call Centre Trends
-![PwC Power BI Virtual Case Experience (1)](https://user-images.githubusercontent.com/118357991/227764081-750f7560-c9f7-4563-9cb3-74186769cb42.png)
 
 ## Problem Statement :
 In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
@@ -16,7 +15,7 @@ Possible KPIs include (but not limited to):
 
 Dataset used for this task was presented by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and call centre trends dataset:
 
-Dataset: [Call Centre Trends](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/blob/main/01%20Call-Center-Dataset.xlsx)
+Dataset: [Call Centre Trends](https://github.com/kirannavale/Portfolio-Projects/blob/main/PWC%20Call%20Centre%20Trends%20Dashboard/01%20Call-Center-Dataset.xlsx)
 
 ## Data Preparation:
 
@@ -38,7 +37,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 - The `measure table` and `call centre trends` tables as show below:
 
--![Screenshot (37)](https://user-images.githubusercontent.com/118357991/227766088-7fe8f2b3-b4b3-4cfd-a925-0895874ea956.png)
+-![Screenshot (37)](![227766088-7fe8f2b3-b4b3-4cfd-a925-0895874ea956](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/e5d33d5d-cfab-40e6-a9ca-f1f70814344a)
 
 ## Data Analysis (DAX):
 
