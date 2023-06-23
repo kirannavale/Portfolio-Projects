@@ -86,15 +86,15 @@ Shows visualizations from Customer Retention analysis:
 
 | Customer Churn |
 | ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0002](https://user-images.githubusercontent.com/118357991/229330706-03af1d41-a7e3-4449-8867-55322ecdf371.jpg)|
+|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/e87b2a35-d002-46fe-802e-d74c707e314a)|
 
 | Customer Risk |
 | ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0003](https://user-images.githubusercontent.com/118357991/229330924-5b82f4ab-8326-41f0-b001-e56eb264d3ba.jpg)|
+|![PWC Task 2-Customer Churn Retenstion_page-0003](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/d46b0c29-6a38-4859-a651-df586026e4d8)|
 
 | Services |
 | ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0004](https://user-images.githubusercontent.com/118357991/229330958-68b013f5-d013-4de6-a4f7-6a2500823de0.jpg)|
+|![PWC Task 2-Customer Churn Retenstion_page-0004](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/d0b4dcc1-ed14-4bab-9996-c9744e1e4393)|
 
 ## Insights:
 
