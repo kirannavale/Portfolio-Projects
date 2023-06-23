@@ -1,15 +1,4 @@
 # PWC Power BI Virtual work experience - Diversity and Inclusion Analysis
-![PwC Power BI Virtual Case Experience (1)](https://user-images.githubusercontent.com/118357991/229363730-638a282b-7348-4b3d-a0ff-3f8c0c9e3b9e.png)
-
-## Table of Contents:
-
-- [Problem Statement](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#problem-statement-)
-- [Datasource](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#datasource-)
-- [Data Preparation](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#data-preparation)
-- [Data Modeling](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#data-analysis-dax)
-- [Data Visualization (Dashboard)](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#data-visualization)
-- [Insights](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/edit/main/README.md#insights)
 
 ## Problem Statement :
 
@@ -35,7 +24,7 @@ Calculating the following measures could help to define proper KPIs:
 
 Dataset used for this task was presented by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and Diversity and Inclusion dataset:
 
-Dataset: [Diversity and Inclusion](https://github.com/yogeshkasar778/PWC_task3-Diversity_and_Inclusion_dashboard/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
+Dataset: [Diversity and Inclusion](https://github.com/kirannavale/Portfolio-Projects/blob/main/PWC%20Task%203%20Diversity%20and%20inclusion%20Dashboard/03%20Diversity-Inclusion-Dataset.xlsx)
 
 ## Data Preparation:
 
@@ -59,7 +48,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 - The `diversity and inclusion` tables as show below:
 
-![Screenshot (53)](https://user-images.githubusercontent.com/118357991/229366105-ee670e8e-2c01-4370-b28d-3a74d5033a00.png)
+![Screenshot (53)](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/dac94191-7186-4399-93a9-76da698c5cc2)
 
 ## Data Analysis (DAX):
 
@@ -95,11 +84,11 @@ Shows visualizations from Diversity and Inclusion:
 
 | Diversity and inclusion HR Dashboard 1 |
 | ----------- |
-|![PWC Task 3 - Diversity and inclusion Dashboard_page-0002](https://user-images.githubusercontent.com/118357991/229836248-ed282004-53c1-4a9c-b73d-63cee21f982f.jpg)|
+|![PWC Task 3 - Diversity and inclusion Dashboard_page-0002](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/bf61fc4d-13ad-42e9-9efa-a56551dd2b84)|
 
 | Diversity and inclusion HR Dashboard 2 |
 | ----------- |
-| ![PWC Task 3 - Diversity and inclusion Dashboard_page-0003](https://user-images.githubusercontent.com/118357991/229836856-5831ce14-9c2b-4570-a901-496f14744a5c.jpg)|
+| ![PWC Task 3 - Diversity and inclusion Dashboard_page-0003](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/a30e6684-8ea0-49fd-83c8-1b5bda855984)|
 
 ## Insights:
 
