@@ -37,7 +37,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 - The `measure table` and `call centre trends` tables as show below:
 
--![Screenshot (37)](![227766088-7fe8f2b3-b4b3-4cfd-a925-0895874ea956](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/e5d33d5d-cfab-40e6-a9ca-f1f70814344a)
+-(![227766088-7fe8f2b3-b4b3-4cfd-a925-0895874ea956](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/e5d33d5d-cfab-40e6-a9ca-f1f70814344a)
 
 ## Data Analysis (DAX):
 
