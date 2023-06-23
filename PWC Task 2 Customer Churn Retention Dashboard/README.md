@@ -44,7 +44,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 - The `customer churn` tables as show below:
 
-![Screenshot (39)](https://user-images.githubusercontent.com/118357991/227792100-51216842-8e72-4e48-b740-aab5d2f97541.png)
+![Screenshot (39)](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/f9d491d6-7755-4b3d-9d82-158d46b0defe)
 
 ## Data Analysis (DAX):
 
