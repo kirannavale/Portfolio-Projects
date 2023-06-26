@@ -2,8 +2,7 @@
 # Python Diwali Sales Analysis
 Analyze Diwali sales data to improve customer experience and sales
 
-## Problem Statement :
-The purpose of this project is to:
+## The purpose of this project is to:
 
 1.Improve customer experience by analyzing sales data
 
