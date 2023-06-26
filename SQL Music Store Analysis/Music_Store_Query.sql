@@ -5,7 +5,7 @@
 SELECT title, last_name, first_name 
 FROM employee
 ORDER BY levels DESC
-LIMIT 1
+LIMIT 1 ;
 
 
 /* Q2: Which countries have the most Invoices? */
@@ -13,14 +13,14 @@ LIMIT 1
 SELECT COUNT(*) AS c, billing_country 
 FROM invoice
 GROUP BY billing_country
-ORDER BY c DESC
+ORDER BY c DESC ;
 
 
 /* Q3: What are top 3 values of total invoice? */
 
 SELECT total 
 FROM invoice
-ORDER BY total DESC
+ORDER BY total DESC ;
 
 
 /* Q4: Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. 
@@ -138,7 +138,7 @@ WITH popular_genre AS
 	GROUP BY 2,3,4
 	ORDER BY 2 ASC, 1 DESC
 )
-SELECT * FROM popular_genre WHERE RowNo <= 1
+SELECT * FROM popular_genre WHERE RowNo <= 1 ;
 
 
 
@@ -158,7 +158,7 @@ WITH Customter_with_country AS (
 		JOIN customer ON customer.customer_id = invoice.customer_id
 		GROUP BY 1,2,3,4
 		ORDER BY 4 ASC,5 DESC)
-SELECT * FROM Customter_with_country WHERE RowNo <= 1
+SELECT * FROM Customter_with_country WHERE RowNo <= 1  ;
 
 
 
