@@ -44,4 +44,6 @@ Dataset used for this [Music_Data](https://github.com/kirannavale/Portfolio-Proj
     - I wrote a query to calculate the total amount spent by each customer for each country, identifying the top-spending customer for each country. If multiple customers shared the highest amount spent, I included all of them in the results.
 
 
+## Tools, Software and Libraries :
 
+1.My SQL
