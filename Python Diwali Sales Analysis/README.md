@@ -13,8 +13,13 @@ The purpose of this project is to:
 Dataset used for this [Diwali_sales_data](https://github.com/kirannavale/Portfolio-Projects/blob/main/Python%20Diwali%20Sales%20Analysis/Diwali%20Sales%20Data.csv)
 
 ## Analysis : 
-1. From  graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men.
+1. From  graph we can see that most of the buyers are females and even the purchasing power of females are greater than men.
+   
 ![Gender](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/49dd391f-95c8-48dd-9364-1ad227aa0ae1)
+
+2. From graph we can see that most of the buyers are of age group between 26-35 yrs female.
+
+![Gender](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/9a6bad3d-fd37-4a28-a1f6-ec8e71348a9f)
 
 ## Conclusion : 
 
