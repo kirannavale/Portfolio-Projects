@@ -35,6 +35,8 @@ Dataset used for this [Music_Data](https://github.com/kirannavale/Portfolio-Proj
 
 11. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
 
+## SQL queries :  
+[Solution](https://github.com/kirannavale/Portfolio-Projects/blob/main/SQL%20Music%20Store%20Analysis/Music_Store_Query.sql)
 
 ## Tools, Software and Libraries :
 
