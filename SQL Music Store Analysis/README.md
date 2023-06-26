@@ -1,5 +1,5 @@
 # SQL Project Music Store Analysis
-SQL project to analyze online music store data
+
 
 ## Objective:
 The dataset consisted of information about employees, invoices, customers, tracks, genres, and countries. The goal is to extract valuable insights and provide answers to various ad-hoc questions related to the store's operations and customer behavior.
