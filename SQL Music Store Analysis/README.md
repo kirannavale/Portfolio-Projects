@@ -1,7 +1,8 @@
 # SQL Project Music Store Analysis
 SQL project to analyze online music store data
 
-## Database and Tools
+## Objective:
+Utilize SQL to analyze the business growth of a store and provide valuable insights to drive decision-making and strategy.
 
 
 Schema- Music Store Database  
