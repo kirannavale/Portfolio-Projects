@@ -12,7 +12,6 @@ Dataset used for this [Music_Data](https://github.com/kirannavale/Portfolio-Proj
 ![MusicDatabaseSchema](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/48a1f0e3-2248-4164-921b-5241ae4afa19)
 
 ## Approach and Query Explanations:
-SQL PROJECT- MUSIC STORE DATA ANALYSIS
 
 1. Who is the senior most employee based on job title?
    - I wrote a query to retrieve the employee with the highest job title level and returned their name and job title.
