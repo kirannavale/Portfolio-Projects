@@ -1,7 +1,7 @@
 # Financial Dashboard
 
 ## Problem Statement:
-Creating a healthcare dashboard that offers real-time monitoring of essential KPIs is essential to enhance hospital performance and patient satisfaction. The challenge is to develop an intuitive and dynamic platform that enables healthcare professionals to access and utilize critical patient statistics effectively.
+Creating a healthcare dashboard that offers real-time monitoring of essential KPIs is essential to enhance hospital performance and patient satisfaction. The challenge is to develop an intuitive and dynamic platform that enables healthcare professionals to access patient statistics effectively.
 
 ## KPIs include :
 -Number of Stays:
