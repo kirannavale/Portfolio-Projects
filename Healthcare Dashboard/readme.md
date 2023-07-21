@@ -70,41 +70,9 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 | ----------- |
 |![Screenshot 2023-07-21 125743](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/548f5490-8b2a-4c7d-95da-84640c1e8b46)|
 
-# Insights from the Finance Dashboard:
-
-
-
-Operating Income % and Gross Margin %: These KPIs provide insights into the company's efficiency in generating profit and managing its cost of goods sold. A higher operating income % indicates better profitability, while a higher gross margin % indicates effective cost management and pricing strategies.
-
-Liquidity Ratio: This KPI helps assess the company's ability to meet its short-term financial obligations. A higher liquidity ratio indicates better short-term financial health and the ability to handle unexpected expenses.
-
-Debt to Equity Ratio: This ratio provides insights into the company's capital structure and financial leverage. A high debt to equity ratio may indicate higher financial risk, while a lower ratio suggests a more conservative approach to financing.
-
-Working Capital and Working Capital Ratio: Working capital represents the company's short-term operational efficiency and financial health. A positive working capital indicates that the company has enough current assets to cover its current liabilities. The working capital ratio helps understand the adequacy of current assets compared to current liabilities.
-
-Depreciation & Amortization: Monitoring this KPI is essential to understand the impact of non-cash expenses on the company's financial performance. It affects net income and cash flow.
-
-Total Equity: Total equity reflects the company's net worth and can be compared over time to assess its financial growth and stability.
-
-Interest & Taxes: These figures help understand the financial burden of interest payments and tax obligations on the company's profitability.
-
-Net Income %: This KPI gives a clear picture of the company's profitability after all expenses, taxes, and interest payments. A higher net income % indicates better financial performance.
-
-In addition to individual KPI insights, it's essential to analyze these metrics in conjunction to gain a holistic view of the company's financial health:
-
-Revenue vs. Operating Income: Comparing revenue to operating income can highlight the company's profitability and efficiency in converting revenue into profit.
-
-Gross Margin vs. Operating Income: Analyzing the relationship between gross margin and operating income helps understand how effectively the company manages its operating expenses.
-
-Total Assets vs. Total Liabilities: Evaluating the relationship between total assets and total liabilities indicates the company's leverage and risk.
-
-COGS vs. Gross Margin: Assessing the relationship between COGS and gross margin helps identify the effectiveness of the company's cost management.
-
-Current Assets vs. Current Liabilities: Examining the company's ability to meet its short-term obligations by comparing current assets to current liabilities is crucial for short-term financial planning.
-
-Working Capital vs. Total Assets: Understanding the proportion of working capital to total assets provides insights into the company's reliance on short-term financing.
-
-Net Income vs. Total Equity: Comparing net income to total equity helps assess the return on shareholders' investment.
+# Insights from the Finance Dashboard :
+---
+This Financial Dashboards Will benefit company by providing easy-to-use visualizations to monitor and evaluate essential financial KPIs in real-time. They enable informed decision-making, improve transparency, and optimize financial performance, leading to better business outcomes.
 ---
 
 
