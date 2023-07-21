@@ -44,58 +44,67 @@ Data Cleaning for the dataset was done in the power query editor as follows:
 
 ![Screenshot 2023-07-21 130127](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/b35e88d7-5bbc-46fd-9d21-76ff44ff502a)
 
-## Data Analysis (DAX):
-
-Measures used in  all visualization are:
-
-- Average of seed of answerd = `AVERAGE('call centre trends'[Speed of answer in seconds])`
-
-- Average of statisfaction = `AVERAGE('call centre trends'[Satisfaction rating])`
-
-- Count satisfation rating = `COUNT('call centre trends'[Satisfaction rating])`
-
-- Overall Customer Satisfation = `DIVIDE([Possitive satisfation rating],[Count satisfation rating],0)`
-
-- Possitive satisfation rating = `CALCULATE(COUNT('call centre trends'[Satisfaction rating]),FILTER('call centre trends','call centre trends'[Satisfaction rating] IN {4,5}))`
-
-- resolved calls = `COUNTX(FILTER('call centre trends','call centre trends'[Resolved] = "Yes"), 'call centre trends'[Resolved])`
-
-- Unresolved calls = `COUNTX(FILTER('call centre trends','call centre trends'[Resolved] = "No"), 'call centre trends'[Resolved])`
-
-- total calls =  `CALCULATE('Table'[total calls answered] + 'Table'[total calls unanswred])`
-
-- total calls answered = `COUNTX(FILTER('call centre trends','call centre trends'[Answered (Y/N)] = "Yes"),'call centre trends'[Answered (Y/N)])`
-
-- total calls unanswred =`COUNTX(FILTER('call centre trends','call centre trends'[Answered (Y/N)] = "No"), 'call centre trends'[Answered (Y/N)])`
 
 ## Data Visualization (Dashboard) :
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-Shows visualizations from Call Center Trends :
+ Visualizations :
 
-| Call Centre Trends (Overview) |
+| Home |
 | ----------- |
-| ![PWC Task 1 - Call Centre Dashboard-1](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/70645f44-518a-4ec5-ac6d-1deb69e4a3f3)|
+|![Screenshot 2023-07-21 125711](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/db8caf1a-4e7f-455d-b562-65407f4707ec)|
 
 
-| Call Centre Trends (Agent's Performance) |
+| Income Statement |
 | ----------- |
-| ![PWC Task 1 - Call Centre Dashboard-2](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/b764894a-61b9-4e8d-8b53-dea37320ce33)|
+|![Screenshot 2023-07-21 125722](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/ed24b416-8289-4380-a335-9e7d5ffc468b)|
 
-## Insights :
 
-As shown by Data Visualization, It can be deduced that:
+| Balance Sheet |
+| ----------- |
+|![Screenshot 2023-07-21 125730](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/7c5a456c-cacc-4cd7-8c96-954ba586de5b)|
 
-- Most of the satisfaction ratings from each call are 3 and 4.
-- The average satisfaction rating has decreased over the span of three months. January brought the highest satisfaction rating and march the lowest.
-- The percentage of issue resolved in January was the highest, with a dip in February. It increased again in march.
-- The majority of calls come in the morning.
-- The average speed of answer by Joe is the highest.
-- The call resolution rate of Jim is the highest, even though the average speed of his answers is lower compared to those of Joe, Martha and Dan. The call answered by - him are also higher than the average number of calls answered.
-- Becky's speed of answer is the lowest among all, and her rate of calls resolved is higher. She is in the 5th position in the call resolution rate. 
-- Martha has the highest  speed of answered in the sec
 
+| Summary |
+| ----------- |
+|![Screenshot 2023-07-21 125743](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/548f5490-8b2a-4c7d-95da-84640c1e8b46)|
+
+# Insights from the Finance Dashboard:
+
+
+
+Operating Income % and Gross Margin %: These KPIs provide insights into the company's efficiency in generating profit and managing its cost of goods sold. A higher operating income % indicates better profitability, while a higher gross margin % indicates effective cost management and pricing strategies.
+
+Liquidity Ratio: This KPI helps assess the company's ability to meet its short-term financial obligations. A higher liquidity ratio indicates better short-term financial health and the ability to handle unexpected expenses.
+
+Debt to Equity Ratio: This ratio provides insights into the company's capital structure and financial leverage. A high debt to equity ratio may indicate higher financial risk, while a lower ratio suggests a more conservative approach to financing.
+
+Working Capital and Working Capital Ratio: Working capital represents the company's short-term operational efficiency and financial health. A positive working capital indicates that the company has enough current assets to cover its current liabilities. The working capital ratio helps understand the adequacy of current assets compared to current liabilities.
+
+Depreciation & Amortization: Monitoring this KPI is essential to understand the impact of non-cash expenses on the company's financial performance. It affects net income and cash flow.
+
+Total Equity: Total equity reflects the company's net worth and can be compared over time to assess its financial growth and stability.
+
+Interest & Taxes: These figures help understand the financial burden of interest payments and tax obligations on the company's profitability.
+
+Net Income %: This KPI gives a clear picture of the company's profitability after all expenses, taxes, and interest payments. A higher net income % indicates better financial performance.
+
+In addition to individual KPI insights, it's essential to analyze these metrics in conjunction to gain a holistic view of the company's financial health:
+
+Revenue vs. Operating Income: Comparing revenue to operating income can highlight the company's profitability and efficiency in converting revenue into profit.
+
+Gross Margin vs. Operating Income: Analyzing the relationship between gross margin and operating income helps understand how effectively the company manages its operating expenses.
+
+Total Assets vs. Total Liabilities: Evaluating the relationship between total assets and total liabilities indicates the company's leverage and risk.
+
+COGS vs. Gross Margin: Assessing the relationship between COGS and gross margin helps identify the effectiveness of the company's cost management.
+
+Current Assets vs. Current Liabilities: Examining the company's ability to meet its short-term obligations by comparing current assets to current liabilities is crucial for short-term financial planning.
+
+Working Capital vs. Total Assets: Understanding the proportion of working capital to total assets provides insights into the company's reliance on short-term financing.
+
+Net Income vs. Total Equity: Comparing net income to total equity helps assess the return on shareholders' investment.
 ---
 
 
