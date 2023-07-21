@@ -30,7 +30,11 @@ The total count of stays where patients were treated as inpatients.
 
 
 ## Datasource :
-Dataset: [Financial Dataset](https://github.com/kirannavale/Portfolio-Projects/blob/main/Healthcare%20Dashboard/Financial%20Dataset.xlsx)
+Dataset: [Healthcare](https://github.com/kirannavale/Portfolio-Projects/blob/main/Healthcare%20Dashboard/HealthCare.xlsx)
+
+About Dataset -
+Healthcare data sets include a vast amount of medical data, various measurements, financial data, statistical data, demographics of specific populations, and insurance data, to name just a few, gathered from various healthcare data sources.
+Health care data sets are an important source of information for understanding health disparities and addressing health inequities in patient populations.
 
 ## Data Preparation:
 
@@ -39,43 +43,36 @@ Data Cleaning for the dataset was done in the power query editor as follows:
 
 - Removed Unnecessary columns
 - Removed Unnecessary rows
-- Each of the columns in the table were validated to have the correct data type
+- In Data Cleaning the first columns are promoted as headers and data types of the columns are changed
 
 ## Data Modeling:
 
-![Screenshot 2023-07-21 130127](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/b35e88d7-5bbc-46fd-9d21-76ff44ff502a)
-
+![Screenshot 2023-07-21 130015](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/1e61c448-9fab-435c-a9fd-60c2d3088234)
 
 ## Data Visualization (Dashboard) :
-
-Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
-
- Visualizations :
-
+Insight on the Patients stay and amount spend.
 | Home |
 | ----------- |
-|![Screenshot 2023-07-21 125711](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/db8caf1a-4e7f-455d-b562-65407f4707ec)|
+|![Screenshot 2023-07-21 120703](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/2ddc20f8-c812-46d6-859a-cfbccf97f532)|
 
-
-| Income Statement |
+Analysis of the cost weight per stay
+| Cost Weight Analysis |
 | ----------- |
-|![Screenshot 2023-07-21 125722](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/ed24b416-8289-4380-a335-9e7d5ffc468b)|
+![Screenshot 2023-07-21 120717](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/c9417239-c576-43ad-bfb2-3e3121a87191)|
 
-
-| Balance Sheet |
+Analysis of the trend in cost weight per stay by month and year.
+| Trends Analysis |
 | ----------- |
-|![Screenshot 2023-07-21 125730](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/7c5a456c-cacc-4cd7-8c96-954ba586de5b)|
+|![Screenshot 2023-07-21 120726](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/2caff3be-a967-4659-bb40-deadad685b7f)|
 
 
 | Summary |
 | ----------- |
-|![Screenshot 2023-07-21 125743](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/548f5490-8b2a-4c7d-95da-84640c1e8b46)|
+|![Screenshot 2023-07-21 120736](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/b90916e7-6a48-460a-ac8b-c2c9d144b35f)|
 
-# Insights from the Finance Dashboard :
+# Insights/Conclusion :
 ---
-
-As shown by Data Visualization,
-This Financial Dashboards Will benefit company by providing easy-to-use visualizations to monitor and evaluate essential financial KPIs in real-time. They enable informed decision-making, improve transparency, and optimize financial performance, leading to better business outcomes.
+The average length of stay in hospitals (ALOS) is often used as an indicator of efficiency. All other things being equal, a shorter stay will reduce the cost per discharge and shift care from inpatient to less expensive post-acute settings. The ALOS refers to the average number of days that patients spend in hospital. It is generally measured by dividing the total number of days stayed by all inpatients during a year by the number of admissions or discharges. Day cases are excluded. The indicator is presented both for all acute care cases and for childbirth without complications.
 
 ---
 
