@@ -72,9 +72,11 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 # Insights from the Finance Dashboard :
 ---
-This Financial Dashboards Will benefit company by providing easy-to-use visualizations to monitor and evaluate essential financial KPIs in real-time. They enable informed decision-making, improve transparency, and optimize financial performance, leading to better business outcomes.
----
 
+As shown by Data Visualization,
+This Financial Dashboards Will benefit company by providing easy-to-use visualizations to monitor and evaluate essential financial KPIs in real-time. They enable informed decision-making, improve transparency, and optimize financial performance, leading to better business outcomes.
+
+---
 
 
 
