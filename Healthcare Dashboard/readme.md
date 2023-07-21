@@ -29,19 +29,11 @@ KPIs include :
 
 
 ## Datasource :
-
-Dataset used for this task was presented by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and call centre trends dataset:
-
-Dataset: [Call Centre Trends](https://github.com/kirannavale/Portfolio-Projects/blob/main/PWC%20Call%20Centre%20Trends%20Dashboard/01%20Call-Center-Dataset.xlsx)
+Dataset: [Financial Dataset](https://github.com/kirannavale/Portfolio-Projects/blob/main/Healthcare%20Dashboard/Financial%20Dataset.xlsx)
 
 ## Data Preparation:
 
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
-
-Call Centre Trends dataset is give table named:
-
-- `Call Center trends dataset` which has `10 columns and 5000 rows` of observation
-
 Data Cleaning for the dataset was done in the power query editor as follows:
 
 - Removed Unnecessary columns
@@ -50,11 +42,7 @@ Data Cleaning for the dataset was done in the power query editor as follows:
 
 ## Data Modeling:
 
-And then dataset was cleaned and transformed, it was ready to the data modeled.
-
-- The `measure table` and `call centre trends` tables as show below:
-
--![227766088-7fe8f2b3-b4b3-4cfd-a925-0895874ea956](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/e5d33d5d-cfab-40e6-a9ca-f1f70814344a)
+![Screenshot 2023-07-21 130127](https://github.com/kirannavale/Portfolio-Projects/assets/34519689/b35e88d7-5bbc-46fd-9d21-76ff44ff502a)
 
 ## Data Analysis (DAX):
 
