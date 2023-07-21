@@ -1,31 +1,32 @@
 # Financial Dashboard
 
-## Description
-Financial Analysis is a Business enforcement duty that involves systematic patterns and trends in Financial State. Pattern information can help Company deploy resources more effectively and detectives.
-This solution empowers financial personnel to make informed decisions regarding the financial performance of your company. Developed using the latest Power BI functionality, this solution is easy-to-use and highly customizable to match your company’s branding. 
+## Problem Statement:
+Creating a healthcare dashboard that offers real-time monitoring of essential KPIs is essential to enhance hospital performance and patient satisfaction. The challenge is to develop an intuitive and dynamic platform that enables healthcare professionals to access and utilize critical patient statistics effectively.
 
-KPIs include :
-1. Total Revenues
-2. COGS (Cost of Goods Sold )
-3. Operating Income
-4. Operating Income %
-5. Gross Margin 
-6. Gross Margin %
-7. Total Assets
-8. Current Liabilities
-9. Liquidity Ratio
-10. Debt to Equity ratio
-11. OpEx (Operating Expense)
-12. OpEx to Revenues Ratio
-13. Current Assets
-14. Total Liabilities
-15. Working Capital
-16. Working Capital Ratio
-17. Depreciation & Amortization
-18. Total Equity
-19. Interest & Taxes
-20. Net Income
-21. Net Income %
+## KPIs include :
+-Number of Stays:
+ The total count of patient stays recorded in the system.
+
+-Number of Patients:
+The total count of distinct patients who have stayed at the hospital.
+
+-Patient Per Stay:
+The average number of patients per stay, calculated as the total number of patients divided by the total number of stays.
+
+-Total Cost Weight:
+The sum of cost weights associated with all patient stays.
+
+-Cost Weight Per Stay:
+Definition: The average cost weight per stay, calculated as the total cost weight divided by the number of stays.
+
+-Length Of Stays (LOS):
+The average length of patient stays in the hospital, measured in days.
+
+-Number of Outpatient Stays:
+The total count of stays where patients were treated as outpatients.
+
+-Number of Inpatient Stays:
+The total count of stays where patients were treated as inpatients.
 
 
 ## Datasource :
