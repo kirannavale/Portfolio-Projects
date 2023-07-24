@@ -1,4 +1,4 @@
-# Financial Dashboard
+# Healthcare Dashboard
 
 ## Problem Statement:
 The objective is to design and develop a comprehensive healthcare dashboard that offers real-time monitoring of essential KPIs is essential to enhance hospital performance and patient satisfaction. The challenge is to develop an intuitive and dynamic platform that enables healthcare professionals to access patient statistics effectively.
