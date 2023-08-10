@@ -1,8 +1,7 @@
 # Financial Dashboard
 
 ## Description
-Financial Analysis is a Business enforcement duty that involves systematic patterns and trends in Financial State. Pattern information can help Company deploy resources more effectively and detectives.
-This solution empowers financial personnel to make informed decisions regarding the financial performance of your company. Developed using the latest Power BI functionality, this solution is easy-to-use and highly customizable to match your company’s branding. 
+Develop a user-friendly Power BI solution for comprehensive financial analysis, enabling businesses to identify patterns, optimize resource allocation, and enhance decision-making. The solution should empower financial personnel to understand and act upon their company's financial state effectively.
 
 KPIs include :
 1. Total Revenues
